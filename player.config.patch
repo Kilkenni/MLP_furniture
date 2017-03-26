@@ -1,3 +1,4 @@
 [
-  { "op" : "add", "path" : "/defaultBlueprints/tier1/1", "value" : { "item" : "mlp_poster_wonderbolts" }}
+  { "op" : "add", "path" : "/defaultBlueprints/tier1/1", "value" : { "item" : "mlp_poster_wonderbolts" }},
+  { "op" : "add", "path" : "/defaultBlueprints/tier1/1", "value" : { "item" : "mlp_poster_mare_do_well" }}
 ]

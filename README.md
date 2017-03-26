@@ -3,7 +3,10 @@ A mod with MLP-themed furniture for Starbound. Has little use without Pony modpa
 
 ## CREDITS:
 
-sn3akyfox - for vector of "Wonderbolts" poster (vectorised from MLP:FiM by Hasbro)
+sn3akyfox (http://sn3akyfox.deviantart.com) - for vector of "Wonderbolts" poster
+UP1TER (http://up1ter.deviantart.com) - Mare-Do-Well poster
+
+MLP:FiM belongs to Hasbro)
 
 ## TODO:
 

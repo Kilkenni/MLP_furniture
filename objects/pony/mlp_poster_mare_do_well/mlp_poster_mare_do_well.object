@@ -1,0 +1,40 @@
+{
+  "objectName" : "mlp_poster_mare_do_well",
+  "colonyTags" : ["ponies","unicorn","unicorncity"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 45,
+  "printable" : false,
+
+  "shortdescription" : "Mare-Do-Well Poster",
+  "description" : "Mare-Do-Well knows!",
+  "race" : "unicorn",
+
+  "apexDescription" : "Some kind of a hero poster.",
+  "avianDescription" : "Some kind of a hero poster.",
+  "floranDescription" : "Some kind of a hero poster.",
+  "glitchDescription" : "Some kind of a hero poster.",
+  "humanDescription" : "Some kind of a hero poster.",
+  "hylotlDescription" : "Some kind of a hero poster.",
+  "novakidDescription" : "Some kind of a hero poster.",
+  "ponyDescription" : "A poster of a legendary heroic pony.",
+  "unicornDescription" : "Mare-Do-Well: always watchful, always on guard.",
+  "pegasusDescription" : "A poster of a legendary heroic pony.",
+  "alicornDescription" : "A poster of a legendary heroic pony.",
+  "batponyDescription" : "A poster of a legendary heroic pony.",
+  "changelingDescription" : "A poster of a legendary heroic pony.",
+  "ponexDescription" : "A poster of a legendary heroic pony.",
+
+  "inventoryIcon" : "mlp_poster_mare_do_well16.png",
+  "orientations" : [
+    {
+      "image" : "mlp_poster_mare_do_well48.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

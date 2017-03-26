@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 4 }   
+  ],
+  "output" : {
+    "item" : "mlp_poster_mare_do_well",
+    "count" : 1
+  },
+  "duration" : 1,
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}
