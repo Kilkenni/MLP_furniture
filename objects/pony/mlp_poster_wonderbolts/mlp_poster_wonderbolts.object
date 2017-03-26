@@ -1,9 +1,10 @@
 {
   "objectName" : "mlp_poster_wonderbolts",
   "colonyTags" : ["ponies","pegasus","pegasuscity"],
-  "rarity" : "Rare",
+  "rarity" : "Common",
   "category" : "decorative",
   "price" : 55,
+  "printable" : false,
 
   "shortdescription" : "Wonderbolts Poster",
   "description" : "A poster of a worldwide-famous aerial sports team.",
@@ -27,14 +28,13 @@
   "inventoryIcon" : "mlp_poster_wonderbolts16.png",
   "orientations" : [
     {
-      "image" : "mlp_poster_wonderbolts64.png:<color>",
-      "imagePosition" : [-22, -32],
+      "image" : "mlp_poster_wonderbolts48.png:<color>",
+      "imagePosition" : [-8, -16],
       "frames" : 1,
       "animationCycle" : 0.5,
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
-
     }
   ]
 }
