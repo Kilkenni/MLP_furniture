@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 5 }   
+  ],
+  "output" : {
+    "item" : "mlp_poster_wonderbolts",
+    "count" : 1
+  },
+  "duration" : 1,
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

@@ -1,0 +1,40 @@
+{
+  "objectName" : "mlp_poster_wonderbolts",
+  "colonyTags" : ["ponies","pegasus","pegasuscity"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 55,
+
+  "shortdescription" : "Wonderbolts Poster",
+  "description" : "A poster of a worldwide-famous aerial sports team.",
+  "race" : "pegasus",
+
+  "apexDescription" : "Some kind of a sport poster.",
+  "avianDescription" : "Some kind of a sport poster.",
+  "floranDescription" : "Some kind of a sport poster.",
+  "glitchDescription" : "Some kind of a sport poster.",
+  "humanDescription" : "Some kind of a sport poster.",
+  "hylotlDescription" : "Some kind of a sport poster.",
+  "novakidDescription" : "Some kind of a sport poster.",
+  "ponyDescription" : "A poster of a famous aerial sports team.",
+  "unicornDescription" : "A poster of a famous aerial sports team.",
+  "pegasusDescription" : "Go Wonderbolts!",
+  "alicornDescription" : "A poster of a famous aerial sports team.",
+  "batponyDescription" : "A poster of a famous aerial sports team.",
+  "changelingDescription" : "A poster of a famous aerial sports team.",
+  "ponexDescription" : "A poster of a famous aerial sports team.",
+
+  "inventoryIcon" : "mlp_poster_wonderbolts16.png",
+  "orientations" : [
+    {
+      "image" : "mlp_poster_wonderbolts64.png:<color>",
+      "imagePosition" : [-22, -32],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

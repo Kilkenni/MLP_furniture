@@ -1,0 +1,10 @@
+{
+  "name" : "MLP_furniture",
+  "version" : "1.0",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "MelOzone",
+    "description" : "More MLP-themed furniture."
+  }
+}
